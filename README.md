@@ -22,12 +22,12 @@ That’s when I decided to translate the solving strategies I used into code. Fi
 ---
 
 ## 📌 Example
-- The grid is:
-Input Sudoku Grid:
+- The grid is:  
+Input Sudoku Grid:  
 ![Input Grid](images/Sudoku-inputgrid.png)
 
-The solution of the grid is:
-Solved Sudoku Grid:
+The solution of the grid is:  
+Solved Sudoku Grid:  
 ![Solved Grid](images/Sudoku-solvedgrid.png) 
 
 ---
