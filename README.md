@@ -35,5 +35,5 @@ Solved Sudoku Grid:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sudoku-solver.git
+   git clone https://github.com/Keokeditse/Sudoku-Solver.git
 
