@@ -26,7 +26,7 @@ That’s when I decided to translate the solving strategies I used into code. Fi
 Input Sudoku Grid:  
 ![Input Grid](images/Sudoku-inputgrid.png)
 
-The solution of the grid is:  
+- The solution of the grid is:  
 Solved Sudoku Grid:  
 ![Solved Grid](images/Sudoku-solvedgrid.png) 
 
